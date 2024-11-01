@@ -1,0 +1,14 @@
+numpy
+matplotlib
+scipy
+librosa
+unidecode
+inflect
+pydub
+whisper
+ffmpeg-python
+openai
+python-dotenv
+requests
+pyTelegramBotAPI  # For TeleBot
+ipython  
