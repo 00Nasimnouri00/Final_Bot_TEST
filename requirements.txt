@@ -1,0 +1,9 @@
+librosa
+numpy
+matplotlib
+python-telegram-bot
+python-dotenv
+pydub
+assemblyai
+pyTelegramBotAPI
+ffmpeg-python
